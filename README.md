@@ -12,3 +12,6 @@
 ## Dependencies
 1. requests
 2. aiogramm
+
+## Info
+1. [OpenWeather](https://openweathermap.org/api)
