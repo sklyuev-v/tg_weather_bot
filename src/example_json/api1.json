@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 53.2333,
+        "lat": 56.85
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "ясно",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 17.29,
+        "feels_like": 17.14,
+        "temp_min": 17.29,
+        "temp_max": 17.29,
+        "pressure": 1026,
+        "humidity": 79,
+        "sea_level": 1026,
+        "grnd_level": 1010
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.58,
+        "deg": 112,
+        "gust": 4.33
+    },
+    "clouds": {
+        "all": 2
+    },
+    "dt": 1725988867,
+    "sys": {
+        "type": 2,
+        "id": 2003018,
+        "country": "RU",
+        "sunrise": 1725932897,
+        "sunset": 1725980404
+    },
+    "timezone": 14400,
+    "id": 554840,
+    "name": "Ижевск",
+    "cod": 200
+}
