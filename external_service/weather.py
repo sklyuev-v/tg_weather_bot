@@ -1,8 +1,7 @@
-from config import WEATHER_URL_ON_DAY
-from config import WEATHER_URL_ON_5_DAY
-from config import OPENWEATHER_API_KEY
+from config_data.config import WEATHER_URL_ON_DAY
+from config_data.config import WEATHER_URL_ON_5_DAY
+from config_data.config import OPENWEATHER_API_KEY
 import requests
-import json
 
 
 def get_weather_on_day(city: str) -> str:
